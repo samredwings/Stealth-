@@ -1,1 +1,20 @@
-
+MessengerMonitor/
+├── app/
+│   ├── build.gradle
+│   ├── src/
+│   │   └── main/
+│   │       ├── AndroidManifest.xml
+│   │       ├── java/com/monitor/messenger/
+│   │       │   ├── MainActivity.java
+│   │       │   ├── MessengerService.java
+│   │       │   ├── FacebookClient.java
+│   │       │   ├── C2Client.java
+│   │       │   ├── TokenManager.java
+│   │       │   └── Utils.java
+│   │       └── res/
+│   │           └── xml/
+│   │               └── accessibility_config.xml
+├── server/
+│   ├── server.py
+│   └── requirements.txt
+└── README.md
