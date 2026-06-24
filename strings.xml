@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">System Services</string>
+    <string name="service_label">System Background Service</string>
+</resources>
